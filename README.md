@@ -6,6 +6,10 @@
 This guide is based on the original Linxu guide tuned specifically to the hardware/operating system peculiarities for Steam OS 3.0 (holo) which is currently being used by the Steam Deck. The guide will also (hopefully) be compatible with all the devices that target SteamOS. The reason for a seperate guide actually comes from certain peculiarities of SteamOS. The first one is the fact that SteamOS runs two different compositors for various parts of the user experience, namely wayland for the desktop mode and gamescope for gamemode, while desktop mode operations is very similiar to any linux distribution, gamescope does not render a desktop nor does it actually allow you to execute new programs*. Secondly, there is a certain part of SteamOS/KDE that communicates with port 8080 and as such the operating system reserves this port - this guide will also show you how to modify the KCCP port to mitigate this issue.
 ### TL;DR SteamOS is a bit different from Ubuntu or Arch and we also want to leverage Steam's Gamescope to add Kantai Collection to the console UI of SteamOS so a specific SteamOS guide must be written.
 
+
+# As of Jan 14, 2026 this guide should not be relied on thanks to both Chrome manifest changes and due to C2 upgrading to HTTPS for all servers. Please find help in the discord server above for complicated linux installs.
+
+
 ## Installation Guide 
 ### Prerequisites
 - Familiarize yourself with the [installation guide for KanColle](https://docs.google.com/document/d/1S3-Uv9wbuv2lAkjc_5oH6T069rb7QlTP90W2AHoNPzg/edit#heading=h.181npd1fnl0), but do not execute any steps yet.
