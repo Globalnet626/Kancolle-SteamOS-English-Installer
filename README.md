@@ -10,6 +10,8 @@ This guide is based on the original Linxu guide tuned specifically to the hardwa
 # As of Jan 14, 2026 this guide should not be relied on thanks to both Chrome manifest changes and due to C2 upgrading to HTTPS for all servers. Please find help in the discord server above for complicated linux installs.
 
 
+## The rest of the guide is here for archival purposes until work can be done to update it
+
 ## Installation Guide 
 ### Prerequisites
 - Familiarize yourself with the [installation guide for KanColle](https://docs.google.com/document/d/1S3-Uv9wbuv2lAkjc_5oH6T069rb7QlTP90W2AHoNPzg/edit#heading=h.181npd1fnl0), but do not execute any steps yet.
